@@ -4,4 +4,4 @@
 
 # Установка
 
-Скопируйте проект на свой компьютер git clone https://github.com/Sysadmino/Tabs
+Скопируйте проект на свой компьютер git clone https://github.com/Sysadmino/modal
